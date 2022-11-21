@@ -11,7 +11,6 @@ public class Teacher {
         this.salary=salary;
 
     }
-
     public void setSalary(int salary) {
         this.salary = salary;
     }

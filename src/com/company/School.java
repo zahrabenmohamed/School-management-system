@@ -2,7 +2,6 @@ package com.company;
 
 import java.util.ArrayList;
 import java.util.List;
-
 public class School {
 
     private List<Teacher> teachers=new ArrayList<>();

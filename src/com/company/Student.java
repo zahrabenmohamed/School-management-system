@@ -10,7 +10,6 @@ public class Student {
      private int grade ;
      private    int feesPaid;
      private int feesTotal;
-
     /**
      * constructor with args to create a new instance of the student object by initializing the value
      * @param id : should be unique
